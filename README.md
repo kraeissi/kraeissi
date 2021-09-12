@@ -2,6 +2,9 @@
 
 ## Kazem Raeissi
 ## OPS 445
+
+I am a student at Seneca
+
 <!--
 **kraeissi/kraeissi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
